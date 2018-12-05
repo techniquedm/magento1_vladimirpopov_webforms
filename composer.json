@@ -1,9 +1,8 @@
 {
   "name": "techniquedm/magento1-module_vladimirpopov_webforms",
+  "description": "Technique fork of Magento 1.x module VladimirPopov/Webforms",
+  "keywords": ["magento","magento1", "webforms"],
+  "homepage": "https://github.com/techniquedm/magento1_vladimirpopov_webforms",
   "type": "magento-module",
-  "version": "dev-master",
-    "dist": {
-        "url": "https://github.com/techniquedm/magento1_vladimirpopov_webforms",
-        "type": "git"
-    }
+  "version": "2.8.5"
 }
