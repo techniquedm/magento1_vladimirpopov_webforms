@@ -1,8 +1,5 @@
-# VladimirPopov WebForms Pro
-
-**Extension for Magento 1**
-
---- 
+# VladimirPopov WebForms Pro __for Magento 1.x__
+**Modified fork by [Technique](https://techniquedm.com)**
 
 ## Overview
 
