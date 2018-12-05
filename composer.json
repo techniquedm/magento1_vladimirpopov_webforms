@@ -1,4 +1,9 @@
 {
-  "name": "kirchbergerknorr/magento1-module_vladimirpopov_webforms",
-  "type": "magento-module"
+  "name": "techniquedm/magento1-module_vladimirpopov_webforms",
+  "type": "magento-module",
+  "version": "dev-master",
+    "source": {
+        "type": "vcs",
+        "url": "https://github.com/techniquedm/magento1_vladimirpopov_webforms"
+    }
 }
